@@ -1,4 +1,4 @@
-## DM200 tools
+## DM250 tools 確認中
 
 ### initramfs
 initramfs作成用スクリプト
